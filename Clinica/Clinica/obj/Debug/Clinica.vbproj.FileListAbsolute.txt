@@ -1,0 +1,38 @@
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.Clinica.resources
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.Resources.resources
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.vbproj.CoreCompileInputs.cache
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe.config
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\Clinica.pdb
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\Clinica.xml
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.dll
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\Google.Protobuf.dll
+c:\users\ahmed\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.xml
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.exe
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.xml
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.pdb
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.Salida.resources
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.Insertar.resources
+c:\users\ahmed\source\repos\Clinica\Clinica\obj\Debug\Clinica.Consultas.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\Clinica.xml
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\Google.Protobuf.dll
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.Clinica.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.Consultas.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.Insertar.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.Resources.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.Salida.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.xml
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.InsertarDatos.resources
+C:\Users\ahmed\Documents\UTP - Base de Datos\Clinica\Clinica\obj\Debug\Clinica.GestionarDatos.resources
