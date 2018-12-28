@@ -7,3 +7,5 @@ App para el manejo de información en una clínica con Visual Basic y SQL Server
 - Abrir `clinicabd.sql`
 - Abrir `Clinica.sln` en Visual Studio
 - Editar `Conexión.vb` la ruta del servidor de SQL Server
+# Demo
+![Demo](https://raw.githubusercontent.com/Yizack/clinicabd/master/demo.png)
